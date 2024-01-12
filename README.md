@@ -19,17 +19,18 @@ The Bank Management System ATM project, developed using Java, stands as a testam
 🚀 Future-Forward Experience: This isn't just code; it's a glimpse into the future of secure, efficient, and enjoyable banking experiences. 💳
 
 HOW TO USE---
-![Screenshot (494)](https://github.com/raheetech/bank_management_system1/assets/137060785/9538e084-6866-40d3-8bb0-b96b64418532)
-![Screenshot (493)](https://github.com/raheetech/bank_management_system1/assets/137060785/83772294-20c7-4f6e-9f6e-959c5cd90a65)
-![Screenshot (492)](https://github.com/raheetech/bank_management_system1/assets/137060785/cb8cfa67-070c-4f14-aa19-8d080a23d884)
-![Screenshot (491)](https://github.com/raheetech/bank_management_system1/assets/137060785/de48750c-54b3-489f-a5f5-0fea6f78fbba)
-![Screenshot (490)](https://github.com/raheetech/bank_management_system1/assets/137060785/4e693fea-8c63-4ab9-84eb-b89e51afec77)
-![Screenshot (489)](https://github.com/raheetech/bank_management_system1/assets/137060785/dc572e85-eb43-4773-ad7a-62810c8aa484)
-![Screenshot (488)](https://github.com/raheetech/bank_management_system1/assets/137060785/e3c18df3-ba6e-4522-ae8f-b9e5dc7c10ea)
-![Screenshot (497)](https://github.com/raheetech/bank_management_system1/assets/137060785/0da7888b-6a62-41a2-899f-e2bf1cbdcbde)
-![Screenshot (484)](https://github.com/raheetech/bank_management_system1/assets/137060785/2e7d5e60-2714-475b-8783-9684d873d905)
-![Screenshot (486)](https://github.com/raheetech/bank_management_system1/assets/137060785/a656d3a9-5e07-4512-a3cd-4f36ca75e041)
-![Screenshot (485)](https://github.com/raheetech/bank_management_system1/assets/137060785/f97ddd39-474d-4205-9f02-aefcc47d3cde)
-![Screenshot (496)](https://github.com/raheetech/bank_management_system1/assets/137060785/8c738856-0887-42e9-bc4f-9cdc044aa3cd)
-![Screenshot (487)](https://github.com/raheetech/bank_management_system1/assets/137060785/226f6a81-c1c9-460a-9460-00fa4a6d792c)
-![Screenshot (495)](https://github.com/raheetech/bank_management_system1/assets/137060785/b189178c-1b68-4b20-947a-dd95bb2f4ed3)
+
+![Screenshot (484)](https://github.com/raheetech/bank_management_system1/assets/137060785/a2e5a186-fc81-4701-bc34-1765018726cf)
+![Screenshot (485)](https://github.com/raheetech/bank_management_system1/assets/137060785/26740f8b-8d6e-4594-ab9b-61617fba0fca)
+![Screenshot (486)](https://github.com/raheetech/bank_management_system1/assets/137060785/857d5512-3b94-424e-9cc4-98e0e0b37a63)
+![Screenshot (487)](https://github.com/raheetech/bank_management_system1/assets/137060785/5a707a87-21a1-4568-b7f7-99ade02d15f9)
+![Screenshot (488)](https://github.com/raheetech/bank_management_system1/assets/137060785/ef021942-90a5-4737-ab9e-3c31c589f114)
+![Screenshot (489)](https://github.com/raheetech/bank_management_system1/assets/137060785/919be8dc-2f25-47dd-88e5-f90d8b01eba3)
+![Screenshot (490)](https://github.com/raheetech/bank_management_system1/assets/137060785/1445f98f-5ac3-4747-9c55-b38a224828f4)
+![Screenshot (491)](https://github.com/raheetech/bank_management_system1/assets/137060785/5cb40535-62bb-4d3f-a9fc-0f7dbf2a651d)
+![Screenshot (492)](https://github.com/raheetech/bank_management_system1/assets/137060785/c6a5217f-204b-40a5-9fbc-b1b1ef0f8333)
+![Screenshot (493)](https://github.com/raheetech/bank_management_system1/assets/137060785/a680bb11-5d37-4812-a865-a3c0018cc9cd)
+![Screenshot (494)](https://github.com/raheetech/bank_management_system1/assets/137060785/e4cfb5bb-aba6-4b92-a29d-ca9b3f880b04)
+![Screenshot (495)](https://github.com/raheetech/bank_management_system1/assets/137060785/13cb164c-8e99-413a-a567-08d74dcb94c7)![Uploading Screenshot (494).png…]()
+![Screenshot (496)](https://github.com/raheetech/bank_management_system1/assets/137060785/9a48a14a-c3c1-41ce-b34e-9c37f0f54e6d)
+
